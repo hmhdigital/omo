@@ -1,0 +1,8 @@
+{
+    "name": "hmhdigital/omo",
+    "type": "wordpress-theme",
+    "require": {
+        "timber/timber": "*"
+    },
+    "license": "MIT"
+}
